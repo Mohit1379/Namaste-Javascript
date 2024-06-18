@@ -45,3 +45,12 @@
     padding: 10px;
     cursor: pointer;
 }
+.search-btn{
+    padding: 10px;
+    cursor: pointer;
+    margin: 0px 10px;
+}
+.button{
+    padding: 10px 20px;
+    cursor: pointer;
+}
